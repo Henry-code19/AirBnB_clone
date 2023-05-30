@@ -127,4 +127,4 @@ HBnB - version 9.6
 To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
-* Henry-code19 <yawkdjan@gmail.com>
+* Henry-code19    <yawkdjan@gmail.com>
